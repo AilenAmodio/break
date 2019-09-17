@@ -1,0 +1,28 @@
+a{
+    text-decoration: none;
+    color: yellow;
+    background: green;
+    font-size: 25px;
+}
+
+a:hover{
+    background: rgb(75, 119, 8);
+}
+
+p{
+    vertical-align:text-top;
+    color: darkgreen;
+    font-size: 20px;
+}
+
+div{
+    color: black;
+    font-size: 20px;
+}
+
+img{
+    margin: 5px;
+    border: 8px solid whitesmoke;
+    float: left;
+    width: 400px;
+}
